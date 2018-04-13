@@ -1,0 +1,92 @@
+---
+-
+  fields:
+    date_joined: "2016-05-02T22:23:10.627Z"
+    email: possum@aristotle.example.com
+    short_name: Possum
+    is_active: true
+    is_staff: true
+    is_superuser: true
+    last_login: ~
+    full_name: ""
+    password: rot13$
+  model: aristotle_mdr_user_management.user
+  pk: 2
+-
+  fields:
+    date_joined: "2016-05-02T22:23:10.627Z"
+    email: alice@aristotle.example.com
+    short_name: Alice
+    is_active: true
+    is_staff: true
+    is_superuser: true
+    last_login: ~
+    full_name: Administrator
+    password: rot13$Administrator
+  model: aristotle_mdr_user_management.user
+  pk: 10
+-
+  fields:
+    date_joined: "2016-05-02T22:23:10.734Z"
+    email: vicky@aristotle.example.com
+    short_name: Vicky
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    last_login: ~
+    full_name: Viewer
+    password: rot13$Viewer
+  model: aristotle_mdr_user_management.user
+  pk: 3
+-
+  fields:
+    date_joined: "2016-05-02T22:23:10.862Z"
+    email: stewie@aristotle.example.com
+    short_name: Stewie
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    last_login: ~
+    full_name: Steward
+    password: rot13$Steward
+  model: aristotle_mdr_user_management.user
+  pk: 4
+-
+  fields:
+    date_joined: "2016-05-02T22:23:10.989Z"
+    email: mandy@aristotle.example.com
+    short_name: Mandy
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    last_login: ~
+    full_name: Manager
+    password: rot13$Manager
+  model: aristotle_mdr_user_management.user
+  pk: 5
+-
+  fields:
+    date_joined: "2016-05-02T22:23:11.113Z"
+    email: suzie@aristotle.example.com
+    short_name: Suzie
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    last_login: ~
+    full_name: Submitter
+    password: rot13$Submitter
+  model: aristotle_mdr_user_management.user
+  pk: 6
+-
+  fields:
+    date_joined: "2016-05-02T22:23:11.603Z"
+    email: reggie@aristotle.example.com
+    short_name: Reggie
+    is_active: true
+    is_staff: false
+    is_superuser: false
+    last_login: ~
+    full_name: Registrar
+    password: rot13$Registrar
+  model: aristotle_mdr_user_management.user
+  pk: 7
